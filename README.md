@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07080A,60:14171C,100:FFB020&height=190&section=header&text=H0RNET&fontColor=FFB020&fontSize=72&fontAlignY=36&desc=cybersecurity%20%C2%B7%20OSINT%20%C2%B7%20Penetration%20Testing%20%C2%B7%20Digital%20Forensics&descAlign=50&descAlignY=60&descSize=16" alt="H0RNET" width="100%" />
+<img src="assets/h0rnet-logo.png" width="300" alt="H0RNET Cybersecurity" />
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFB020&center=true&vCenter=true&width=620&lines=Independent+European+security+specialist;Authorised+offensive+security+%26+OSINT;A+finding+nobody+can+fix+is+a+complaint." alt="typing banner" />
-</a>
+<h2>OSINT &nbsp;·&nbsp; Penetration Testing &nbsp;·&nbsp; Digital Forensics</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFB020&center=true&vCenter=true&width=640&lines=Independent+European+security+specialist;Authorised+offensive+security+%26+OSINT;A+finding+nobody+can+fix+is+a+complaint." alt="Independent European security specialist" />
 
 <br/>
 
@@ -95,9 +95,14 @@ Incident forensics and artifact analysis — tracing what happened, when, and ho
 
 ### `~/featured`
 
-[![browser-bridge-mcp](https://github-readme-stats.vercel.app/api/pin/?username=h0rnet-1101&repo=browser-bridge-mcp&title_color=FFB020&icon_color=FF8A1E&text_color=C9CFD7&bg_color=07080A&border_color=23272F)](https://github.com/h0rnet-1101/browser-bridge-mcp)
+#### 🐝 [browser-bridge-mcp](https://github.com/h0rnet-1101/browser-bridge-mcp)
 
-**[browser-bridge-mcp](https://github.com/h0rnet-1101/browser-bridge-mcp)** — a local, user-controlled browser bridge for MCP-compatible AI agents. Part of the H0RNET system.
+[![Stars](https://img.shields.io/github/stars/h0rnet-1101/browser-bridge-mcp?style=flat-square&logo=github&logoColor=FFB020&label=stars&labelColor=07080A&color=FFB020)](https://github.com/h0rnet-1101/browser-bridge-mcp/stargazers)
+[![Forks](https://img.shields.io/github/forks/h0rnet-1101/browser-bridge-mcp?style=flat-square&logo=github&logoColor=4FA8FF&label=forks&labelColor=07080A&color=4FA8FF)](https://github.com/h0rnet-1101/browser-bridge-mcp/network/members)
+[![License](https://img.shields.io/github/license/h0rnet-1101/browser-bridge-mcp?style=flat-square&label=license&labelColor=07080A&color=2FD08A)](https://github.com/h0rnet-1101/browser-bridge-mcp/blob/main/LICENSE)
+[![Top language](https://img.shields.io/github/languages/top/h0rnet-1101/browser-bridge-mcp?style=flat-square&label=&labelColor=07080A&color=FF8A1E)](https://github.com/h0rnet-1101/browser-bridge-mcp)
+
+A local, user-controlled browser bridge for MCP-compatible AI agents. Part of the H0RNET system.
 
 ---
 
@@ -105,12 +110,12 @@ Incident forensics and artifact analysis — tracing what happened, when, and ho
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=h0rnet-1101&show_icons=true&hide_border=true&title_color=FFB020&icon_color=FF8A1E&text_color=C9CFD7&bg_color=07080A" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0rnet-1101&layout=compact&hide_border=true&title_color=FFB020&text_color=C9CFD7&bg_color=07080A" alt="Top languages" />
+[![Followers](https://img.shields.io/github/followers/h0rnet-1101?style=for-the-badge&logo=github&logoColor=FFB020&label=Followers&labelColor=07080A&color=14171C)](https://github.com/h0rnet-1101)
+![Profile views](https://komarev.com/ghpvc/?username=h0rnet-1101&style=for-the-badge&color=FFB020&label=PROFILE+VIEWS)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=h0rnet-1101&theme=black-ice&hide_border=true&background=07080A&ring=FFB020&fire=FF8A1E&currStreakLabel=FFB020&sideLabels=C9CFD7&dates=5C646F&stroke=23272F" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=h0rnet-1101&theme=black-ice&hide_border=true&background=07080A&ring=FFB020&fire=FF8A1E&currStreakLabel=FFB020&sideLabels=C9CFD7&dates=5C646F&stroke=23272F" alt="Contribution streak" />
 
 </div>
 
