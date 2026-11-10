@@ -1,5 +1,5 @@
 <!--
-  GitHub profile README for h0rnet-1101 (Mario Đukić / H0RNET).
+  GitHub profile README for h0rnet-1101 (H0RNET).
   Theme: H0RNET "Black & Amber" — mirrors h0rnet.eu.
   This file renders on https://github.com/h0rnet-1101
 -->
@@ -10,12 +10,12 @@
 
 <h2>OSINT &nbsp;·&nbsp; Penetration Testing &nbsp;·&nbsp; Digital Forensics</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFB020&center=true&vCenter=true&width=640&lines=Independent+European+security+specialist;Authorised+offensive+security+%26+OSINT;A+finding+nobody+can+fix+is+a+complaint." alt="Independent European security specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFB020&center=true&vCenter=true&width=640&lines=H0RNET+%E2%80%94+authorised+security+%26+OSINT;European+security+%26+digital+forensics;A+finding+nobody+can+fix+is+a+complaint." alt="H0RNET — authorised security & OSINT" />
 
 <br/>
 
 [![Website](https://img.shields.io/badge/h0rnet.eu-FFB020?style=for-the-badge&logo=firefoxbrowser&logoColor=07080A)](https://h0rnet.eu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-14171C?style=for-the-badge&logo=linkedin&logoColor=4FA8FF)](https://www.linkedin.com/in/mario-dukic-h0rnet/)
+[![Contact](https://img.shields.io/badge/info@h0rnet.eu-14171C?style=for-the-badge&logo=maildotru&logoColor=FFB020)](mailto:info@h0rnet.eu)
 [![Based in EU](https://img.shields.io/badge/Based_in-European_Union-2FD08A?style=for-the-badge&logo=europeanunion&logoColor=07080A)](https://h0rnet.eu)
 
 </div>
@@ -25,16 +25,16 @@
 ### `~/whoami`
 
 ```bash
-Mario Đukić  ·  "h0rnet" / "blackkat"
-Role    : Independent cybersecurity specialist (sole trader)
+mario   ·  "h0rnet" / "blackkat"
 Base    : European Union
 Field   : Authorised penetration testing · OSINT investigations · digital forensics
 Promise : NDA-backed · GDPR-compliant · reported to NIST and OWASP standards
+Contact : info@h0rnet.eu · h0rnet.eu
 Motto   : "A finding nobody can reproduce is an opinion.
            A finding nobody can fix is a complaint. I ship neither."
 ```
 
-I run **authorised offensive security assessments**, trace what attackers left behind, and turn both into a report your engineers can actually act on. No theatre, no unreproducible findings — just scoped, evidence-backed work you can fix.
+**H0RNET** runs authorised offensive security assessments, traces what attackers left behind, and turns both into a report your engineers can actually act on. No theatre, no unreproducible findings — just scoped, evidence-backed work you can fix.
 
 ---
 
@@ -93,19 +93,6 @@ Incident forensics and artifact analysis — tracing what happened, when, and ho
 
 ---
 
-### `~/featured`
-
-#### 🐝 [browser-bridge-mcp](https://github.com/h0rnet-1101/browser-bridge-mcp)
-
-[![Stars](https://img.shields.io/github/stars/h0rnet-1101/browser-bridge-mcp?style=flat-square&logo=github&logoColor=FFB020&label=stars&labelColor=07080A&color=FFB020)](https://github.com/h0rnet-1101/browser-bridge-mcp/stargazers)
-[![Forks](https://img.shields.io/github/forks/h0rnet-1101/browser-bridge-mcp?style=flat-square&logo=github&logoColor=4FA8FF&label=forks&labelColor=07080A&color=4FA8FF)](https://github.com/h0rnet-1101/browser-bridge-mcp/network/members)
-[![License](https://img.shields.io/github/license/h0rnet-1101/browser-bridge-mcp?style=flat-square&label=license&labelColor=07080A&color=2FD08A)](https://github.com/h0rnet-1101/browser-bridge-mcp/blob/main/LICENSE)
-[![Top language](https://img.shields.io/github/languages/top/h0rnet-1101/browser-bridge-mcp?style=flat-square&label=&labelColor=07080A&color=FF8A1E)](https://github.com/h0rnet-1101/browser-bridge-mcp)
-
-A local, user-controlled browser bridge for MCP-compatible AI agents. Part of the H0RNET system.
-
----
-
 ### `~/stats`
 
 <div align="center">
@@ -125,9 +112,9 @@ A local, user-controlled browser bridge for MCP-compatible AI agents. Part of th
 
 **Let's work together** — authorised assessments, OSINT, and forensics.
 
-[**h0rnet.eu**](https://h0rnet.eu) · [LinkedIn](https://www.linkedin.com/in/mario-dukic-h0rnet/) · [@h0rnet-1101](https://github.com/h0rnet-1101)
+[**h0rnet.eu**](https://h0rnet.eu) · [info@h0rnet.eu](mailto:info@h0rnet.eu) · [@h0rnet-1101](https://github.com/h0rnet-1101)
 
-<sub>🐝 Part of the H0RNET system · Authorised testing only · © 2026 Mario Đukić</sub>
+<sub>🐝 Part of the H0RNET system · Authorised testing only · © 2026 H0RNET</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB020,40:14171C,100:07080A&height=90&section=footer" alt="" width="100%" />
 
